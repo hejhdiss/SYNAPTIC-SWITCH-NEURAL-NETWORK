@@ -11,7 +11,7 @@
  * 5. Homeostatic Decay: Adaptive λ prevents hallucination and topic obsession
  * 
  * Compile to shared library:
- * Windows: gcc -shared -o synaptic_switch.dll synaptic_switch.c -lm -O3 -fopenmp   -static-libgcc -static
+ * Windows: gcc -shared -fPIC -o synaptic_switch.so synaptic_switch.c -lm -O3 -fopenmp   -static-libgcc -static
  * Linux:   gcc -shared -fPIC -o synaptic_switch.so synaptic_switch.c -lm -O3 -fopenmp
  * Mac:     gcc -shared -fPIC -o synaptic_switch.dylib synaptic_switch.c -lm -O3 -Xpreprocessor -fopenmp -lomp
  * 
