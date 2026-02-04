@@ -2,7 +2,6 @@
 
 **Solving Catastrophic Interference Through Dual Weight Systems**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![C99](https://img.shields.io/badge/C-99-blue.svg)](https://en.wikipedia.org/wiki/C99)
 [![Made with Claude](https://img.shields.io/badge/Made%20with-Claude%20Sonnet%204.5-blueviolet.svg)](https://claude.ai)
@@ -400,7 +399,7 @@ Feel free to fork, experiment, and submit PRs!
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **GPL V3 License**.
 
 See [LICENSE](LICENSE) file for full details.
 
